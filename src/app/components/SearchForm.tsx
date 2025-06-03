@@ -16,7 +16,7 @@ const MapForm: React.FC<MapFormProps> = ({ setFindLocation }) => {
   };
 
   return (
-    <div className=" mt-10 flex flex-col justify-center items-center min-h-screen">
+    <div className=" mt-10 flex flex-col justify-center items-center min-h-screen text-white">
       <Welcome />
       <form action="onSubmit" className="space-y-4">
         <input
