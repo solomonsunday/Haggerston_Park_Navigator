@@ -1,0 +1,1 @@
+self.__REACT_LOADABLE_MANIFEST='{"app/page.tsx -> ./components/DirectionMap":{"id":4544,"files":["static/chunks/544.e6ddb9360b77586b.js"]}}';

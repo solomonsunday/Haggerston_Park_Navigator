@@ -1,0 +1,9 @@
+{
+  "[project]/app/components/DirectionMap.tsx [app-client] (ecmascript, next/dynamic entry)": {
+    "id": "[project]/app/components/DirectionMap.tsx [app-client] (ecmascript, next/dynamic entry)",
+    "files": [
+      "static/chunks/app_components_DirectionMap_tsx_cd37e8d6._.js",
+      "static/chunks/app_components_DirectionMap_tsx_2f337093._.js"
+    ]
+  }
+}
