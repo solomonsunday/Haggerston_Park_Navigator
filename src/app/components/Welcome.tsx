@@ -2,8 +2,8 @@ import React from "react";
 
 const Welcome = () => {
   return (
-    <div className=" font-bold text-2xl text-center text-white">
-      Welcome To Haggerston Holiday Park
+    <div className="py-20 font-bold text-5xl text-center text-white font-serif mask-b-from-10">
+      Welcome To Haggerston Castle Holiday Park
     </div>
   );
 };
