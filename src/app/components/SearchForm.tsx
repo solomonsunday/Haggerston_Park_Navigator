@@ -19,7 +19,7 @@ const MapForm: React.FC<MapFormProps> = ({ setFindLocation }) => {
     <div>
       {" "}
       <Welcome />
-      <div className="flex flex-col justify-center items-center  text-white">
+      <div className="flex flex-col justify-center items-center  text-white px-4 ">
         <form action="onSubmit" className="space-y-4">
           <input
             defaultValue={`You are here,  ${

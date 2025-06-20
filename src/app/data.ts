@@ -3,7 +3,7 @@ import { ILocationData } from "./interfaces/interface";
 export const locations: ILocationData[] = [
   {
     name: "The Coppers",
-    coord: { lat: 54.9779, lng: -1.6142 },
+    coord: { lat: 55.6952902, lng: -1.9325708 },
   },
   {
     name: "Lindisfarne Meadows",
@@ -18,12 +18,12 @@ export const locations: ILocationData[] = [
     coord: { lat: 55.6935111, lng: -1.9303067 },
   },
   {
-    name: "Badger Lakes ",
+    name: "Badger Lakes",
     coord: { lat: 55.6927302, lng: -1.9290705 },
   },
 
   {
-    name: "Cooks ",
+    name: "Cooks",
     coord: { lat: 55.6869257, lng: -1.9359749 },
   },
 ];

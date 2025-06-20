@@ -9,7 +9,7 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
-      <body className="container mx-auto px-4 min-h-screen">
+      <body className="container mx-auto  min-h-screen">
         <DestinationProvider>{children}</DestinationProvider>
       </body>
     </html>
